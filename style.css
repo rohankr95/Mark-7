@@ -49,8 +49,8 @@ body{
 
 #txt-input, #txt-output{
 
-    width: 50%;
-    height: 10vh;
+    width: 60%;
+    height: 15vh;
     border: 2px solid black;
     margin: 1rem ;
     padding:1rem;
@@ -76,7 +76,7 @@ body{
     border: 2px solid black;
     border-radius: 0.5rem;
     height: 3rem;
-    width: 10rem;
+    width: 15rem;
     margin: 0rem ;
     font-weight: bolder;
     font-size: large;
@@ -95,7 +95,7 @@ body{
 
 .footer .footer-header{
     font-weight: bold;
-    width: 40%;
+    width: 70%;
     margin: auto;
     text-align: center;
     
@@ -103,7 +103,7 @@ body{
 }
 
 .footer .footer-text{
-    width: 40%;
+    width: 70%;
     margin: auto;
     font-size: large;
     
